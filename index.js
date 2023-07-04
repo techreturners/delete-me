@@ -1,4 +1,4 @@
-console.log("Hello, world.");
+console.log("Making changes.");
 
 // commit
 // add your files to the staging area?
